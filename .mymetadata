@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="ReadWordDemo"
+  id="myeclipse.1491542597597"
+  context-root="/ReadWordDemo"
+  j2ee-spec="5.0"
+  archive="ReadWordDemo.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
